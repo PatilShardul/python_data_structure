@@ -1,3 +1,9 @@
+''' 
+  @Author: Shardul Patil
+  @Date: 2021-01-04 22:59:05
+  @Last Modified by:   Shardul Patil
+  @Last Modified time: 2021-01-04 22:59:05  
+'''
 class Q2:
 
     def __init__(self):
